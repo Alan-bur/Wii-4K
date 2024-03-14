@@ -1,4 +1,4 @@
-<h1>Wii 4K Texture Pack</h1>
+<h1>Wii Menu 4K Texture Pack</h1>
 This project works for Dolphin Emulator only and it can't be loaded by a real Wii. 
 <br>
 <h3>What has been changed?</h3>
