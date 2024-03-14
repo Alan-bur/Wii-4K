@@ -18,7 +18,8 @@ This project works for Dolphin Emulator only and it can't be loaded by a real Wi
 - Widescreen button gets crazy when hovering on it. <br>
 - Setting a custom name for the Wii makes that section lose 4K quality. Setting the nickname into "Wii" or "wii" would make it work. <br>
 - Fonts are a bit missplaced <br>
-<br>
+
+<h3>Installation</h3>
 1. Download the Wii Menu USA version. Go to Dolphin Launcher → Tools → Perform Online System Update → United States. Select it and then, click on “Yes”.<br>
 2. Enable Auto-Adjust Window Size. Go to Dolphin Launcher → General.<br>
 3. Enable Texture Dumping. Go to Dolphin Launcher → Graphics → Advanced.<br>
