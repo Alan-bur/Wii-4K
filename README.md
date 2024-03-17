@@ -15,6 +15,7 @@ This project was made to make the Wii Menu not to pixelate on modern screens. No
 - Wii Menu ✅ <br>
 <br>
 
+<h3>About</h3>
 As this project was first released on 2020 by another person, I started to focus on the missing details. I realised the "PM" and "AM" from the main menu clock were still pixelated, the tabs from the Data Management section were also pixelated, aswell as some buttons found in there. The Mail page still needed some work. So... I can tell this was not a finished project.
 Once i spotted and fixed these details, i redesigned the whole Mail page since it was not that faithful to the Wii and the texture pack itself, designed the forgotten wii setup and remade the Wii settings menu from scratch. I also had to upscale all the missing fonts so they all look good.
 
