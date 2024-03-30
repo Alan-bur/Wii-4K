@@ -10,7 +10,7 @@ This project aims to prevent Wii Menu from pixelating on modern screens. It work
 - Mail ✅ <br>
 - Pointer ✅ <br>
 - SD Menu ✅ <br>
-- Settings ⌛ <br>
+- Settings ✅ <br>
 - Setup ✅ <br>
 - Wii Menu ✅ <br>
 <br>
@@ -19,8 +19,7 @@ This project aims to prevent Wii Menu from pixelating on modern screens. It work
 As this project was first released on 2020 by another person, I started to focus on the missing details. I realised the "PM" and "AM" from the main menu clock were still pixelated, the tabs from the Data Management section were also pixelated, aswell as some buttons found in there. The Mail page still needed some work. So... I can tell this was not a finished project.
 Once i spotted and fixed these details, i redesigned the whole Mail page since it was not that faithful to the Wii and the texture pack itself, designed the forgotten wii setup and remade the Wii settings menu from scratch. I also had to upscale all the missing fonts so they all look good.
 
-<h3>Bugs:</h3>
-- Widescreen button gets crazy when hovering on it. <br>
+<h3>Known Bugs:</h3>
 - Setting a custom name for the Wii makes that section lose 4K quality. Setting the nickname into "Wii" or "wii" would make it work. <br>
 - Fonts are a bit missplaced <br>
 
