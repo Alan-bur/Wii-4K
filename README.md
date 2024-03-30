@@ -36,3 +36,6 @@ Once i spotted and fixed these details, i redesigned the whole Mail page since i
 - SuperDuperRob <br>
 - MatthewLanzilla1 <br>
 - Ondanomala <br>
+
+<h3>DISCLAIMER</h3>
+This is not AI upscaled! These were all textures made by hand.
