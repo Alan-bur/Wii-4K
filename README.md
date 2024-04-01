@@ -20,8 +20,14 @@ As this project was first released on 2020 by another person, I started to focus
 Once i spotted and fixed these details, i redesigned the whole Mail page since it was not that faithful to the Wii and the texture pack itself, designed the forgotten wii setup and remade the Wii settings menu from scratch. I also had to upscale all the missing fonts so they all look good.
 
 <h3>Known Bugs:</h3>
-- Setting a custom name for the Wii makes that section lose 4K quality. Setting the nickname into "Wii" or "wii" would make it work. <br>
+General
 - Fonts are a bit missplaced <br>
+Wii System Settings
+- Console Nickname: Setting a custom name for the Wii makes that section lose 4K quality. Setting the nickname into "Wii" or "wii" would make it work. <br>
+- Calendar: I won’t turn the “Date” and “Time” sections into 4K because i have to make each texture for each year, minute and hour and that would take a lot of time. <br>
+- Internet: “Manual setup” and “Change settings” for Wireless Conection are also imposible to make because each section has a custom input and that means infinite textures. <br>
+- Parental Controls: I had to remake the “Choose a question” section so that the questions are not clickable. This was made so i don’t have to turn non sense textures into 4K. <br>
+- The secret question section is also not 4K (and it won’t be) because it requires input. <br>
 
 <h3>Installation</h3>
 1. Download the Wii Menu USA version. Go to Dolphin Launcher → Tools → Perform Online System Update → United States. Select it and then, click on “Yes”.<br>
