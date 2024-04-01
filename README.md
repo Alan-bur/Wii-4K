@@ -20,9 +20,9 @@ As this project was first released on 2020 by another person, I started to focus
 Once i spotted and fixed these details, i redesigned the whole Mail page since it was not that faithful to the Wii and the texture pack itself, designed the forgotten wii setup and remade the Wii settings menu from scratch. I also had to upscale all the missing fonts so they all look good.
 
 <h3>Known Bugs:</h3>
-<ul>General</ul>
+General <br>
 <li> Fonts are a bit missplaced </li>
-<ul>Wii System Settings</ul>
+Wii System Settings <br>
 <li> Console Nickname: Setting a custom name for the Wii makes that section lose 4K quality. Setting the nickname into "Wii" or "wii" would make it work. </li>
 <li> Calendar: I won’t turn the “Date” and “Time” sections into 4K because i have to make each texture for each year, minute and hour and that would take a lot of time. </li>
 <li> Internet: “Manual setup” and “Change settings” for Wireless Conection are also imposible to make because each section has a custom input and that means infinite textures. </li>
