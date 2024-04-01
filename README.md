@@ -27,9 +27,10 @@ Once i spotted and fixed these details, i redesigned the whole Mail page since i
 1. Download the Wii Menu USA version. Go to Dolphin Launcher → Tools → Perform Online System Update → United States. Select it and then, click on “Yes”.<br>
 2. Enable Auto-Adjust Window Size. Go to Dolphin Launcher → General.<br>
 3. Enable Texture Dumping. Go to Dolphin Launcher → Graphics → Advanced.<br>
-4. Set Internal Resolution into 4k Native. Go to Dolphin Launcher → Graphics → Enhancements.<br>
-5.  Move the “0000000100000002” folder into C:\Users\your_user\AppData\Roaming\Dolphin Emulator\Load\Textures.<br>
-6. Run the Wii Menu. Go to Dolphin Launcher → Tools → Load Wii System Menu 4.3U.<br>
+4. Enable Load Custom Textures and Prefetch Custom Textures. Go to Dolphin Launcher → Graphics → Advanced.<br>
+5. Set Internal Resolution into 4k Native. Go to Dolphin Launcher → Graphics → Enhancements.<br>
+6.  Move the “0000000100000002” folder into C:\Users\your_user\AppData\Roaming\Dolphin Emulator\Load\Textures.<br>
+7. Run the Wii Menu. Go to Dolphin Launcher → Tools → Load Wii System Menu 4.3U.<br>
 <br>
 <h3>Made by:</h3>
 - Me of course <br>
