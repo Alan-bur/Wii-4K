@@ -1,6 +1,12 @@
 <h1>Wii Menu 4K Texture Pack</h1>
 This project aims to prevent Wii Menu from pixelating on modern screens. It works for Dolphin Emulator only and it can't be loaded by a real Wii since this console does not support 4k Textures.
 <br>
+
+
+https://github.com/Alan-bur/Wii-4K/assets/24195711/9022e63b-7b60-4183-85a7-c5888fb9aaae
+
+
+
 <h3>What has been changed?</h3>
 - Channels✅ <br>
 - Fonts ✅ <br>
