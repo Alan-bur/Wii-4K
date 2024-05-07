@@ -44,6 +44,50 @@ Wii System Settings <br>
 6.  Move the “0000000100000002” folder into C:\Users\your_user\AppData\Roaming\Dolphin Emulator\Load\Textures.<br>
 7. Run the Wii Menu. Go to Dolphin Launcher → Tools → Load Wii System Menu 4.3U.<br>
 <br>
+
+<h3>Channel List</h3>
+Each channel must be edited in order to make it 4K. If you would like your channel to be 4k, you can donate me and i will put it on the list.<br>
+<li>Animal Corssing City Folk</li>
+<li>Bandai Namco</li>
+<li>Check Mii Out Channel</li>
+<li>de Blob</li>
+<li>de Blob 2</li>
+<li>Disc Channel</li>
+<li>Dolby</li>
+<li>Donkey Kong Country Returns</li>
+<li>Forecast Channel</li>
+<li>HAL Laboratory</li>
+<li>Hudson</li>
+<li>Kirby Dream Collection Special Edition</li>
+<li>Kirby's Return to Dreamland</li>
+<li>Mario & Sonic at the London 2012 Olympic Games</li>
+<li>Mario & Sonic at the Olympic Games</li>
+<li>Mario & Sonic at the Olympic Winter Games</li>
+<li>Mario Kart Wii</li>
+<li>Mario Patty 8</li>
+<li>Mario Party 9</li>
+<li>Mario Sports Mix</li>
+<li>Mario Strikers Charged</li>
+<li>Mario Super Sluggers</li>
+<li>Mii Channel</li>
+<li>New Super Mario Bros Wii</li>
+<li>News Channel</li>
+<li>Nintendo Channel</li>
+<li>Nintendo logos</li>
+<li>Photo Channel</li>
+<li>SEGA</li>
+<li>Square Enix</li>
+<li>Super Mario Galaxy</li>
+<li>Super Mario Galaxy 2</li>
+<li>Super Paper Mario</li>
+<li>Super Smash Bros Brawl</li>
+<li>The Homebrew Channel</li>
+<li>The Legend of Zelda Skyward Sword</li>
+<li>The Legend of Zelda Princess</li>
+<li>Virtual Console</li>
+<li>Wario Land Shake it!(Original)</li>
+<li>Wii Shop Channel</li>
+
 <h3>Made by:</h3>
 - Me of course <br>
 - SuperDuperRob <br>
