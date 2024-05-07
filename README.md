@@ -46,7 +46,7 @@ Wii System Settings <br>
 <br>
 
 <h3>Channel List</h3>
-Each channel must be edited in order to make it 4K. If have made one, then make a pull request so i add it to the project and the list. If you would like to make one but don't know how to, you can donate me and i will put it on the list.<br>
+Each channel must be edited in order to make it 4K. If you have made one, then make a pull request so i add it to the project and the list. If you would like to make one but don't know how to, you can donate me and i will put it on the list.<br>
 <li>Animal Corssing City Folk</li>
 <li>Bandai Namco</li>
 <li>Check Mii Out Channel</li>
