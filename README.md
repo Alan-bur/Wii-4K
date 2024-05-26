@@ -50,6 +50,14 @@ Each channel must be edited in order to make it 4K. If you have made one, then m
 <li>Animal Corssing City Folk</li>
 <li>Bandai Namco</li>
 <li>Check Mii Out Channel</li>
+<li>Everybody votes Channel</li>
+<li>Photo Prints Channel</li>
+<li>Wii Speak Channel</li>
+<li>Food Channel</li>
+<li>Today & Tomorrow Channel</li>
+<li>Internet Channel</li>
+<li>Kirby TV Channel</li>
+<li>Wii Room</li>
 <li>de Blob</li>
 <li>de Blob 2</li>
 <li>Disc Channel</li>
