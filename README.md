@@ -58,6 +58,7 @@ Each channel must be edited in order to make it 4K. If you have made one, then m
 <li>Internet Channel</li>
 <li>Kirby TV Channel</li>
 <li>Wii Room</li>
+<li>Wii Shop Channel</li>
 <li>de Blob</li>
 <li>de Blob 2</li>
 <li>Disc Channel</li>
@@ -94,13 +95,6 @@ Each channel must be edited in order to make it 4K. If you have made one, then m
 <li>The Legend of Zelda Princess</li>
 <li>Virtual Console</li>
 <li>Wario Land Shake it!(Original)</li>
-<li>Wii Shop Channel</li>
-
-<h3>Made by:</h3>
-- Me of course <br>
-- SuperDuperRob <br>
-- MatthewLanzilla1 <br>
-- Ondanomala <br>
 
 <h3>DISCLAIMER</h3>
 This is not AI upscaled! These were all textures made by hand.
