@@ -21,18 +21,7 @@ https://github.com/Alan-bur/Wii-4K/assets/24195711/9022e63b-7b60-4183-85a7-c5888
 <li>Wii Menu ✅</li>
 
 <h3>About</h3>
-As this project was first released and published by "SuperDuperRob" on 2020, I started to focus on the missing details. I realised the "PM" and "AM" from the main menu clock were still pixelated, the tabs from the Data Management section were also pixelated, aswell as some buttons found in there. The Wii Message Boarde still needed some work. So... I can tell this was not a finished project.
-Once i spotted and fixed these details, i redesigned the whole Wii Message Board since it was not that faithful to the Wii and the texture pack itself, designed the forgotten Wii setup and remade the Wii settings menu from scratch. I also had to upscale all the missing fonts so they all look good.
-
-<h3>Known Bugs:</h3>
-General <br>
-<li> Fonts are a bit missplaced </li>
-Wii System Settings <br>
-<li> Console Nickname: Setting a custom name for the Wii makes that section lose 4K quality. Setting the nickname into "Wii" or "wii" would make it work. </li>
-<li> Calendar: I won’t turn the “Date” and “Time” sections into 4K because i have to make each texture for each year, minute and hour and that would take a lot of time. </li>
-<li> Internet: “Manual setup” and “Change settings” for Wireless Conection are also imposible to make because each section has a custom input and that means infinite textures. </li>
-<li> Parental Controls: I had to remake the “Choose a question” section so that the questions are not clickable. This was made so i don’t have to turn non sense textures into 4K. </li>
-<li> The secret question section is also not 4K (and it won’t be) because it requires input. <br>
+Originally published by “SuperDuperRob” in 2020 as “HD Wii Texture Pack,” I’ve taken over to complete the project as it was unfinished and forgotten. Everything has been remade and polished with over 3000+ new textures so you can now enjoy exploring the Wii Menu on newer screens.
 
 <h3>Installation</h3>
 1. Download the Wii Menu USA version. Go to Dolphin Launcher → Tools → Perform Online System Update → United States. Select it and then, click on “Yes”.<br>
@@ -113,6 +102,29 @@ Each channel must be edited in order to make it 4K. If you have made one, then m
 <h4>Extra Channels:</h4>
 <li>The Homebrew Channel</li>
 <li>Riivolution</li>
+
+<h3>Known Bugs:</h3>
+
+<h4>Channels</h4>
+<li>TV no Tomo Channel textures don’t fit very well making the lines and blocks not align correctly.</li>
+<li>Mario Kart Channel thumbnail has blue stars and they should be displayed as yellow.</li>
+<li>Riivolution needs a font change.</li>
+<li>Wii System Transfer and Wii U Transfer Tool characters are not 4K.</li>
+
+<h4>Wii Menu</h4>
+<li> Console Nickname: Setting a custom name for the Wii makes that section lose 4K quality. Setting the nickname into "Wii" or "wii" would make it work. </li>
+<li> Calendar: I won’t turn the “Date” and “Time” sections into 4K because i have to make each texture for each year, minute and hour and that would take a lot of time. </li>
+<li> Internet: “Manual setup” and “Change settings” for Wireless Conection are also imposible to make because each section has a custom input and that means infinite textures. </li>
+<li> Parental Controls: I had to remake the “Choose a question” section so that the questions are not clickable. This was made so i don’t have to turn non sense textures into 4K. </li>
+<li> The secret question section is also not 4K (and it won’t be) because it requires input. </li>
+<li> Fonts are a bit missplaced </li>
+
+<h4>Next update</h4>
+On the new update i will be modifying and polishing these:
+<li>WiiConnect24 Settings</li>
+<li>Mario Kart Channel</li>
+<li>Mii Channel</li>
+<li>Wii Sports Resort</li>
 
 <h3>Donations</h3>
 Your support enables me to continue enhancing the Wii menu textures, bringing them to life in stunning 4K resolution. Your contribution not only helps me achieve this goal but also encourages my passion for creating and sharing high-quality texture packs with the community. Thank you for believing in my work and making this improvement possible. <br>
