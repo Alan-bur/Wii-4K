@@ -50,6 +50,15 @@ Each channel must be edited in order to make it 4K. If you have made one, then m
 <li>Animal Corssing City Folk</li>
 <li>Bandai Namco</li>
 <li>Check Mii Out Channel</li>
+<li>Everybody votes Channel</li>
+<li>Photo Prints Channel</li>
+<li>Wii Speak Channel</li>
+<li>Food Channel</li>
+<li>Today & Tomorrow Channel</li>
+<li>Internet Channel</li>
+<li>Kirby TV Channel</li>
+<li>Wii Room</li>
+<li>Wii Shop Channel</li>
 <li>de Blob</li>
 <li>de Blob 2</li>
 <li>Disc Channel</li>
@@ -86,13 +95,17 @@ Each channel must be edited in order to make it 4K. If you have made one, then m
 <li>The Legend of Zelda Princess</li>
 <li>Virtual Console</li>
 <li>Wario Land Shake it!(Original)</li>
-<li>Wii Shop Channel</li>
-
-<h3>Made by:</h3>
-- Me of course <br>
-- SuperDuperRob <br>
-- MatthewLanzilla1 <br>
-- Ondanomala <br>
 
 <h3>DISCLAIMER</h3>
-This is not AI upscaled! These were all textures made by hand.
+This texture pack is an unofficial fan project and is not affiliated with, endorsed, or approved by Nintendo. All textures have been created or modified by me to enhance the visual experience on modern emulators and are not intended for commercial use.
+
+<h4>Fair Use</h4>
+This texture pack is distributed for free under the principle of "fair use" to improve accessibility and visual quality. It should not be used for commercial purposes or any form of profit.
+
+<h4>Intellectual Property</h4>
+All original content is owned by Nintendo. This project does not intend to infringe on Nintendo's copyrights or intellectual property. If you are a representative of Nintendo or any other entity with rights to the original content and believe this project violates your rights, please contact me to resolve the matter amicably.
+
+<h4>Contact</h4>
+For any inquiries or removal requests, please contact: alanbur2020@gmail.com.
+
+
