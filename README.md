@@ -97,4 +97,15 @@ Each channel must be edited in order to make it 4K. If you have made one, then m
 <li>Wario Land Shake it!(Original)</li>
 
 <h3>DISCLAIMER</h3>
-This is not AI upscaled! These were all textures made by hand.
+This texture pack is an unofficial fan project and is not affiliated with, endorsed, or approved by Nintendo. All textures have been created or modified by me to enhance the visual experience on modern emulators and are not intended for commercial use.
+
+<h4>Fair Use</h4>
+This texture pack is distributed for free under the principle of "fair use" to improve accessibility and visual quality. It should not be used for commercial purposes or any form of profit.
+
+<h4>Intellectual Property</h4>
+All original content is owned by Nintendo. This project does not intend to infringe on Nintendo's copyrights or intellectual property. If you are a representative of Nintendo or any other entity with rights to the original content and believe this project violates your rights, please contact me to resolve the matter amicably.
+
+<h4>Contact</h4>
+For any inquiries or removal requests, please contact: alanbur2020@gmail.com.
+
+
