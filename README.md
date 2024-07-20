@@ -24,6 +24,7 @@ https://github.com/Alan-bur/Wii-4K/assets/24195711/9022e63b-7b60-4183-85a7-c5888
 Originally published by “SuperDuperRob” in 2020 as “HD Wii Texture Pack,” I’ve taken over to complete the project as it was unfinished and forgotten. Everything has been remade and polished with over 3000+ new textures so you can now enjoy exploring the Wii Menu on newer screens.
 
 <h3>Installation</h3>
+<h4>Windows</h4>
 1. Download the Wii Menu USA version. Go to Dolphin Launcher → Tools → Perform Online System Update → United States. Select it and then, click on “Yes”.<br>
 2. Enable Auto-Adjust Window Size. Go to Dolphin Launcher → General.<br>
 3. Enable Texture Dumping. Go to Dolphin Launcher → Graphics → Advanced.<br>
@@ -32,6 +33,19 @@ Originally published by “SuperDuperRob” in 2020 as “HD Wii Texture Pack,�
 6. Move the “0000000100000002” folder into C:\Users\your_user\AppData\Roaming\Dolphin Emulator\Load\Textures.<br>
 7. Run the Wii Menu. Go to Dolphin Launcher → Tools → Load Wii System Menu 4.3U.<br>
 <br>
+<h4>Android</h4>
+1. Download “0000000100000002.zip”<br>
+2. Go to dolphin → Settings → User Data → Open User Data Folder → “≡”  → Downloads.<br>
+3. Tap “0000000100000002.zip”  → Hold press “0000000100000002” → “⋮” → Extract to → Dolphin Emulator\Load\Textures → Extract.<br>
+4. Go to dolphin → “⋮” → “Load System Menu” → “Yes” → “USA”.<br>
+5. Enable “Stretch to Window”. Settings → Graphics Settings → Aspect Ratio.<br>
+6. Enable “Load Custom Textures” & “Prefetch Custom Textures”. Graphics Settings → Advanced.<br>
+7. Set Internal Resolution into 2k Native. Graphics Settings → Enhancements → Internal Resolution (if phone is powered enough, put this on 4x or upper).<br>
+8. Tap “⋮” → “Load System Menu (4.3U)”.<br>
+<h5>Android Tips</h5>
+- Loading the Wii Menu while on vertical mode it will crash the Menu. To fix this all you gotta do is to rotate your phone first and then load the wii menu.<br>
+- The Wii Cursor moves by touching the screen. If you don't see the cursor, all you gotta do is to flich the phone down a bit until it appears.<br>
+- Delete the "0000000100000002.zip" folder because it's not necessary after finishing the installation. Hold press “0000000100000002.zip” → Delete.<br>
 
 <h3>Channel List</h3>
 Each channel must be edited in order to make it 4K. If you have made one, then make a pull request so i add it to the project and the list<br>
